@@ -9,6 +9,7 @@
   align-items: center;
   background: #741188;
   padding: 0 2rem;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
 }
 
 .main-header h1 {
