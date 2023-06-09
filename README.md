@@ -1,6 +1,6 @@
 # Fake login application
 
-This project was created to learn more about React. It's a simple application where you can type your email and password to "log in" to the next "webside". It has a few validations that prevent you from typing for example a wrong email (without @ symbol). When you try to switch to some other page (which is invalid here) you will stay logged in, unless you will hit the "logout" button. This project was create to practice more useEffect hooks as well as Context.
+This project was created to learn more about React, especially using more useEffect hooks as well as Context. It's a simple application where you can type your email and password to "log in" to the next "webside". It has a few validations that prevent you from typing for example a wrong email (without @ symbol). When you try to switch to some other page (which is invalid here) you will stay logged in, unless you will hit the "logout" button. 
 
 ## Available Scripts
 
